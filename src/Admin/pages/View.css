@@ -1,0 +1,19 @@
+.viewbgoff{
+  background-image:url(https://img.freepik.com/premium-photo/double-exposure-abstract-virtual-social-network-icons-empty-modern-office-background-marketing-promotion-concept_258654-7840.jpg?w=1060);
+  height:1000px;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.gen {
+  width: 80%; 
+  margin: 0 auto; 
+}
+.container12{
+  padding-top:20%;
+  margin-left:28%;
+}
+.form-title {
+  background-color: #f0f0f0;
+  color: #333;
+  font-weight: bold;
+}

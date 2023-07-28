@@ -1,0 +1,42 @@
+.loginbuttonadd{
+    border-style:double;
+    border-color: rgb(30, 28, 28);
+    background:none;
+    color: white;
+
+     text-align: center;
+     text-decoration: none;
+     
+     font-size: 20px; /* Increase the font size */
+     cursor: pointer;
+     height: 100%;
+}
+.dash3{
+    
+    height:1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.intro24 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 900px;
+    background-image:url("https://wallpapers.com/images/featured/tv-4k-4sq1bqnmzsksymko.jpg");
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    padding-right: 100px;
+    color: aliceblue;
+  }
+  .color{
+    color:rgb(252, 250, 250);
+    font-family: 'Times New Roman', Times, serif;
+    padding-left:43%;
+    padding-top:10px;
+    
+    padding-bottom: -500px;
+}
+  

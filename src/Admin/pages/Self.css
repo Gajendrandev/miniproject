@@ -1,0 +1,17 @@
+.selfbg{
+    background-image: url(https://images.hdqwalls.com/download/retro-city-sunset-4k-8y-1920x1080.jpg);
+    backgroud-repeat:no-repeat;
+    background-size: cover;
+}
+.selfbg .addbutton1{
+    margin-left:50%;
+    width:200px;
+    height:50px;
+    margin-top: 100px;
+}
+.selfbg .addbutton2{
+    margin-left:80%;
+    width:200px;
+    height:50px;
+    margin-top: 60px;
+}

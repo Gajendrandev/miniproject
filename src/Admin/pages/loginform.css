@@ -1,0 +1,53 @@
+#adminMain{
+    display: flex;
+}
+.undraw{
+    width: 750px;
+    height: 650px;
+    padding-top: 17%;
+    padding-left: 10%;
+}
+.admin-image{
+    background-color:  #5855af;
+    ;
+    height: 100vh;
+    width: 50%;
+}
+.admin-box{
+    padding: 8% 0% 0% 10%;
+    width: 50%;
+    text-align: center;
+    height: 80.3vh;
+}
+#admin-login-button{
+    width: 30%;
+    background-color:rgb(60, 163, 104) ;
+    padding: 10px;
+    margin: 5%;
+}
+#admin-login-button:hover{
+    background-color:rgb(39, 154, 167) ;
+}
+#admin-myCheckbox{
+    margin-left: -30%;
+}
+.admin-ask{
+    text-align: center;
+    color: rgb(39, 167, 94);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.admin-inp{
+    width: 65%;
+}
+.log-box{
+    align-items: center;
+    border-radius: 5px;
+    padding: 5%;
+    height: 50vh;
+    box-shadow: 2px 2px 4px gray;
+    width: 70%;
+}
+.admin-inp{
+    padding: 10px;
+}
